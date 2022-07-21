@@ -1,4 +1,4 @@
-# AI Search Algorithms for Smart Mobility
+# Emergency Vehicle Dispatching Problem.
 
 This is the GitHub repo of the book “AI Search Algorithms for Smart Mobility”: https://smartmobilityalgorithms.github.io/book/index.html
 
